@@ -1,0 +1,8 @@
+local_settings.py
+*~
+*.pyc
+dev.db
+pip-log.txt
+*DS_Store
+*.egg-info
+venv

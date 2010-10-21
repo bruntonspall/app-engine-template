@@ -1,5 +1,4 @@
 #Put your application settings that can be opensourced here
-MY_SETTING=""
 
 try:
     from local_settings import *
